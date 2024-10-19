@@ -1,0 +1,12 @@
+import Navbar from "../components/navbar"
+export default function Services(){
+    return(
+        <div>
+            <Navbar />
+            <h1 className="bg-teal-100  text-gray-700 text-3xl p-3 m-1 border-8 pl-3 border-zinc-300">Hello!</h1>
+            <h1 className="text-gray-700 bg-teal-100 text-xl p-1 m-4">Welcome at Services Page</h1>
+            <p className="text-gray-700 bg-teal-100 text-sm p-2 m-4 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo impedit quibusdam rem corporis incidunt, optio eaque recusandae laudantium laborum ipsa maxime architecto ab. Necessitatibus corrupti, porro rerum ipsum voluptas minus enim tempora velit ipsa consequuntur exercitationem. Magni asperiores delectus dignissimos, doloribus accusantium, dicta quidem molestias placeat exercitationem officia quibusdam explicabo beatae repudiandae odio totam. Adipisci itaque a sunt delectus temporibus eius aliquam quidem non et ipsum nostrum consectetur, recusandae perspiciatis quae iste atque numquam totam? Consectetur sint excepturi voluptatem aperiam ipsum doloremque saepe vel repudiandae magnam maiores. Nemo temporibus optio sequi ipsum recusandae eum in numquam saepe adipisci, error incidunt.</p>
+            <p className="text-gray-700 bg-teal-100 text-sm p-2 m-4 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quas perspiciatis tenetur, similique architecto illo ullam? Hic nemo voluptate, minus odio eaque dolorem, libero quibusdam iste ad perferendis nisi aliquam delectus rem pariatur culpa rerum fuga earum, aliquid harum beatae consequuntur accusamus dignissimos laborum! Deleniti sit numquam porro mollitia odit delectus nobis? Qui dicta molestias dolor sunt eveniet. Enim porro totam nesciunt rem eos repudiandae tempore obcaecati possimus veritatis ut voluptas iusto quo magnam tenetur inventore doloremque accusamus illum amet saepe sequi minima ex, fugiat aspernatur laboriosam! Quisquam quidem at voluptate, consectetur, laborum labore obcaecati quos perspiciatis dolore tempore, delectus temporibus minus nam voluptatem fuga atque harum rem reiciendis dolores earum voluptates? Dicta sapiente eum sit accusamus vitae fugiat aspernatur nesciunt molestiae odit cupiditate. Unde, adipisci. Non dicta, quia sapiente blanditiis fugit ut, eaque ea doloremque voluptas maxime qui natus harum corrupti autem voluptatem aliquid culpa dolores. Magnam, molestiae illum?</p>
+        </div>
+    )
+}

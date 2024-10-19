@@ -1,0 +1,12 @@
+import Navbar from "../components/navbar"
+export default function Contact(){
+    return(
+        <div>
+            <Navbar />
+            <h1 className="bg-green-100 text-gray-700 text-3xl p-3 m-1 pl-3 border-8 border-zinc-300">Hello!</h1>
+            <h1 className=" bg-green-100 text-grey-700 text-xl p-1 m-4">Welcome at contact page</h1>
+            <p className="bg-green-100 text-gray-700 text-sm p-2 m-4 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae magni maxime magnam accusantium eaque? Eum perspiciatis impedit praesentium dolore dicta sequi optio eligendi ad, necessitatibus voluptates neque laborum velit repellendus recusandae saepe alias incidunt, iste fuga ab repudiandae sit. Sed, tempore nulla. Velit facere alias, maxime, hic odit dolores repudiandae error optio veniam ex asperiores rem quae blanditiis nemo, odio ducimus dicta! Expedita nostrum quae distinctio? Vel praesentium ipsam molestiae magnam. Itaque ipsum, doloremque officiis sunt quia ratione enim quasi quod repellendus maxime earum, quos eaque? Ducimus aliquid, alias fugiat corporis minima nisi a dicta, perferendis incidunt voluptatibus tempore doloremque.</p>
+            <p className="text-gray-700 bg-green-100 text-sm p-2 m-4 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit similique error harum delectus repellat, eaque, deserunt sunt quisquam, odit voluptatibus nisi maiores possimus soluta nobis ratione velit accusamus? Iste eaque animi dicta quos quo nemo rerum sapiente minima in labore laudantium facilis consequatur dolorem est numquam nostrum, necessitatibus unde esse odit voluptates, dignissimos iusto dolorum! Explicabo repellendus dolores quae fuga obcaecati autem perferendis? Molestiae repellendus obcaecati tempora deserunt quaerat corporis minima voluptates, nulla a rem quisquam ullam exercitationem facere consequatur soluta fuga ipsam eos corrupti? In quam ipsa distinctio porro officia corporis quaerat pariatur excepturi, consectetur optio! Eius ut dicta distinctio aliquam nam provident quidem ab quaerat natus nisi error iusto, illum veritatis laudantium veniam suscipit ratione deleniti! Aut voluptatum dolores facere libero vero consequatur nobis natus ut, voluptatem eligendi ex corporis explicabo? Ab, impedit? Distinctio minima, voluptatem earum iusto molestiae deserunt obcaecati, blanditiis numquam laborum, asperiores fugiat animi possimus.</p>
+        </div>
+    )
+}

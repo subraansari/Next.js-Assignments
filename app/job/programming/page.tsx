@@ -1,0 +1,12 @@
+import Navbar from "@/app/components/navbar"
+export default function Programming(){
+    return(
+        <div>
+            <Navbar />
+            <h1 className="bg-lime-100 text-gray-700 text-3xl p-3 m-1 border-8 pl-3 border-zinc-300">Hello!</h1>
+            <h1 className="text-gray-700 bg-lime-100 text-xl p-1 m-4">Welcome at programming page</h1>
+            <p className="text-gray-700 bg-lime-100 text-sm p-2 m-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid obcaecati reiciendis architecto sapiente, voluptatum molestiae, distinctio fugiat eligendi quod dignissimos aut dolor blanditiis laboriosam quibusdam accusamus fuga, beatae quam vel repellat? Commodi magnam cupiditate tempora nulla obcaecati vel amet unde at optio, culpa nisi! Illum eveniet rem voluptate? Exercitationem fuga similique veritatis quis cumque ut unde dolores inventore libero deserunt, assumenda ex ullam, dignissimos enim voluptatum harum molestiae mollitia alias voluptate perferendis cupiditate. Dolorum itaque error beatae facilis totam odio, voluptas fugiat minima, nam temporibus, blanditiis vero animi magni sunt libero accusantium aliquid. Blanditiis cupiditate, vitae repudiandae sequi doloremque aperiam!</p>
+            <p className="bg-lime-100 text-gray-700 text-sm p-2 m-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum corrupti atque aliquid! Magnam rem aut similique itaque autem quisquam repudiandae nulla inventore cumque quia consequatur, voluptatum suscipit ex recusandae veniam. Minima fuga libero voluptates? Incidunt, accusantium non quas tempora quibusdam expedita, amet dolores quod voluptatibus autem reiciendis debitis modi at repudiandae, saepe tenetur minima eum rerum dolorem illum ipsa. Cupiditate perferendis similique corrupti. Modi, voluptate, similique et, veniam ipsa odit autem expedita eos quod facere laboriosam. Praesentium reiciendis non earum delectus amet laborum exercitationem rem rerum at deserunt eum reprehenderit porro, dolorem doloremque optio labore fugiat corporis quasi quaerat unde odit autem quae necessitatibus! Quia minima incidunt harum ad, non repudiandae itaque maiores doloremque omnis fuga facere. Molestiae quod, unde facere nulla suscipit nobis temporibus possimus quasi. Ullam ratione in fugiat vitae harum aperiam maiores placeat sunt! Quisquam magnam debitis, libero ea delectus dolorem aspernatur, consequuntur dolor, culpa qui odit!</p>
+        </div>
+    )
+}
